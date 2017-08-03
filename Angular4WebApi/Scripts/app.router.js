@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var router_1 = require("@angular/router");
+//import { AppComponent } from './app.component';
 var home_component_1 = require("./home/home.component");
 var qrcode_component_1 = require("./qrcode/qrcode.component");
 exports.router = [
