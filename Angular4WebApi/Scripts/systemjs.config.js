@@ -34,7 +34,6 @@
             rxjs: {
                 defaultExtension: 'js'
             }
-            //,'primeng': { defaultExtension: 'js' }
         }
     });
 })(this);
